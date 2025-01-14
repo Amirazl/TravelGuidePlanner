@@ -144,16 +144,16 @@ nav ul li.dropdown .dropdown-content a:hover {
 .card{
     font-style: oblique;
     background-color: rgb(32, 59, 53);/* Black with 50% transparency */
-            font-size: 1.2em;
-            line-height: 1.8;
-            color: #ffffff;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            width: calc(100% - 40px); /* Makes the border stick to the page with padding */
-            max-width: 2000px; /* Limits the width for readability */
-            margin: 0 auto 20px;
-            border-style: none;
+    font-size: 1.2em;
+    line-height: 1.8;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 40px); /* Makes the border stick to the page with padding */
+    max-width: 2000px; /* Limits the width for readability */
+    margin: 0 auto 20px;
+    border-style: none;
 }
 
 /* Breadcrumb */
