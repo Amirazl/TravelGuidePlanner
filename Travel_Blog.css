@@ -40,12 +40,16 @@ header {
     display: block;    /* Make it behave as a block element */
 }
 
-.title {
-    color: #f0e5e5;  /* White color for Your Travel Guide */
+.subtitle {
+    font-family: sans;
+    font-size: 16px;
+    font-weight: normal;
+    color: #e1dada;
+    margin-top: 5px;
+    display: block;
 }
 
 .title-section {
-   
     background-size: cover;
     background-position: center;
     height: 500px;
