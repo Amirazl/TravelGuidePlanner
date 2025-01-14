@@ -133,18 +133,18 @@ nav ul li.dropdown .dropdown-content a:hover {
     margin-bottom: 20px;
 }
 .card{
-font-style: oblique;
-background-color: rgb(38, 61, 95);/* Black with 50% transparency */
-        font-size: 1.2em;
-        line-height: 1.8;
-        color: #ffffff;
-        padding: 15px;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        width: calc(100% - 40px); /* Makes the border stick to the page with padding */
-        max-width: 2000px; /* Limits the width for readability */
-        margin: 0 auto 20px;
-        border-style: none;
+    font-style: oblique;
+    background-color: rgb(38, 61, 95);/* Black with 50% transparency */
+    font-size: 1.2em;
+    line-height: 1.8;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 40px); /* Makes the border stick to the page with padding */
+    max-width: 2000px; /* Limits the width for readability */
+    margin: 0 auto 20px;
+    border-style: none;
 }
     
     
@@ -157,10 +157,6 @@ background-color: rgb(38, 61, 95);/* Black with 50% transparency */
     font-size: 20px;
     font-style: italic;
 }
-
-
-
-
 
 /* Breadcrumb */
 .breadcrumb {
@@ -189,11 +185,7 @@ background-color: rgb(38, 61, 95);/* Black with 50% transparency */
     text-align: center;
     font-style: italic;
     color: white;
-}
-
-
-    
-        
+}       
 
 /* Category Section */
 .categories-container {
@@ -221,7 +213,6 @@ background-color: rgb(38, 61, 95);/* Black with 50% transparency */
 .category h2 { /*MAKE SURE CHANGE FOR ALL PAGES*/
     color: #ffffff;
     font-family: Arial, sans-serif;
-    font-family: cursive;
     background-color: #000000;
     padding: 16px;
     margin: -16px -16px 16px -16px;
