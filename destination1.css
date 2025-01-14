@@ -132,7 +132,7 @@ nav ul li.dropdown .dropdown-content a:hover {
     color: white;
     margin-bottom: 20px;
 }
-.card{
+.card {
     font-style: oblique;
     background-color: rgb(38, 61, 95);/* Black with 50% transparency */
     font-size: 1.2em;
@@ -211,8 +211,9 @@ nav ul li.dropdown .dropdown-content a:hover {
 }
 
 .category h2 { /*MAKE SURE CHANGE FOR ALL PAGES*/
-    color: #ffffff;
     font-family: Arial, sans-serif;
+    color: #ffffff;
+    font-family: cursive;
     background-color: #000000;
     padding: 16px;
     margin: -16px -16px 16px -16px;
