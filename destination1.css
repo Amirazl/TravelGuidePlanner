@@ -219,9 +219,9 @@ background-color: rgb(38, 61, 95);/* Black with 50% transparency */
 }
 
 .category h2 { /*MAKE SURE CHANGE FOR ALL PAGES*/
+    color: #ffffff;
     font-family: Arial, sans-serif;
-color: #ffffff;
-font-family: cursive;
+    font-family: cursive;
     background-color: #000000;
     padding: 16px;
     margin: -16px -16px 16px -16px;
